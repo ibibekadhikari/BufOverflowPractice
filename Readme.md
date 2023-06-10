@@ -1,7 +1,7 @@
 <h2>Starting from setting up and environment with Mona and Immunity Debugger.</h2>
 
 <h3>SettingUp an Config with Mona.</h3>
-<p> I am just a noob, i am writing this for myself to be able to understand the step to reprodcue error throughly but it's not something you jump right away becasue you will not even get the basics of it if you don't know what is <em> PYTHON, ImmunityDebugger, MetaSploit frameoork, Little bit of Assembly and How stack or Registers work while running a program. </em></p>
+<p> I am just a noob, i am writing this for myself to be able to understand the step to reprodcue error throughly but it's not something you jump right away becasue you will not even get the basics of it if you don't know what is <em> PYTHON, ImmunityDebugger, MetaSploit framework, Basics of Assembly and How stack or Registers work while running a program. </em></p>
 <ul></ul>
 <li>In the bottom of the Immunity Debugger, we need to set the Config for Mona so that we can be able to Analysis Bytearray later which may comes handy while finding bad chars.</li>
 <code><em>!mona config -set workingfolder C:\mona\oscp\</em></code>
