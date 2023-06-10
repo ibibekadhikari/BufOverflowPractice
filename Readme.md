@@ -1,4 +1,4 @@
-<h2>Starting from setting up and environment with Mona.</h2>
+<h2>Starting from setting up and environment with Mona and Immunity Debugger.</h2>
 
 <h3>SettingUp an Config with Mona.</h3>
 <p> I am just a noob, i am writing this for myself to be able to understand the step to reprodcue error throughly but it's not something you jump right away becasue you will not even get the basics of it if you don't know what is <em> PYTHON, ImmunityDebugger, MetaSploit frameoork, Little bit of Assembly and How stack or Registers work while running a program. </em></p>
